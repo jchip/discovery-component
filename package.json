@@ -1,0 +1,13 @@
+{
+  "name": "discovery-component",
+  "version": "1.0.0",
+  "description": "discovery-component",
+  "author": {
+    "name": "Sheng Di"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "lerna": "^2.0.0-rc.1",
+    "lodash": "^4.10.1"
+  }
+}
