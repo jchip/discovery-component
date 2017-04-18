@@ -41,7 +41,7 @@
     "electrode-server": "^1.0.0",
     "electrode-static-paths": "^1.0.0",
     "spinner": "../../packages/spinner",
-    "demo-helper": "../../../demo-helper"
+    "electrode-demo-helper": "^1.0.0"
   },
   "devDependencies": {
     "electrode-archetype-react-app-dev": "^2.1.3"
