@@ -29,7 +29,8 @@ $ gulp dev
 ```
 
 Now navigate your browser to http://localhost:3000 to see the demo app with @walmart/wmreact-spinner components.
-![alt tag](./demo-app/grocery-spinner-demo/images/grocery-spinner-demo.gif)
+
+![alt tag](./images/grocery-spinner-demo.gif)
 
 ## License
 
