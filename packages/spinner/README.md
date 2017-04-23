@@ -2,18 +2,12 @@
 
 General-use loading spinner that uses svg paths.
 
+## Eslint & Unit Test
 
-## Demo & Examples
-
-To build the examples locally, run:
-
+To test `spinner component` locally:
 ```
-npm install
-npm start
+gulp check
 ```
-
-Then open [`localhost:8000`](http://localhost:8000) in a browser.
-
 
 ## Installation
 
