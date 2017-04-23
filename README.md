@@ -34,6 +34,7 @@ $ npm install
 $ gulp dev
 ```
 Now navigate your browser to http://localhost:3000 to see the demo app with @walmart/wmreact-spinner components.
+![alt tag](./demo-app/grocery-spinner-demo/images/spinner-demo.gif)
 
 Built with :heart: by [Team Electrode] @WalmartLabs.
 

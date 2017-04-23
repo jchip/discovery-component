@@ -1,5 +1,5 @@
 # my-app [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> 
+>
 
 ## Installation
 
@@ -17,7 +17,6 @@ myApp('Rainbow');
 ## License
 
 Apache-2.0 © [sheng di](your website)
-
 
 [npm-image]: https://badge.fury.io/js/my-app.svg
 [npm-url]: https://npmjs.org/package/my-app
