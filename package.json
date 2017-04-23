@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "discovery-component",
   "author": {
-    "name": "Sheng Di"
+    "name": "Sheng Di",
+    "email": "sdi@walmartlabs.com"
   },
   "scripts": {
     "test": "lerna bootstrap && lerna run test"
