@@ -55,7 +55,3 @@ Built with :heart: by [Team Electrode] @WalmartLabs.
 [electrode-archetype-react-app]: packages/electrode-archetype-react-app
 [electrode-archetype-react-app-dev]: packages/electrode-archetype-react-app-dev
 [generator-electrode]: packages/generator-electrode
-[travis-image]: https://travis-ci.org/electrode-io/electrode.svg?branch=master
-[travis-url]: https://travis-ci.org/electrode-io/electrode
-[daviddm-image]: https://david-dm.org/electrode-io/electrode/dev-status.svg
-[daviddm-url]: https://david-dm.org/electrode-io/electrode?type=dev
