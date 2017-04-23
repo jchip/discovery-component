@@ -43,6 +43,10 @@ $ gulp dev
 Now navigate your browser to http://localhost:3000 to see the demo app with @walmart/wmreact-spinner components.
 ![alt tag](./demo-app/grocery-spinner-demo/images/grocery-spinner-demo.gif)
 
+## License
+
+Apache-2.0 © [sheng di](https://github.com/didi0613)
+
 Built with :heart: by [Team Electrode] @WalmartLabs.
 
 [Team Electrode]: https://github.com/orgs/electrode-io/people

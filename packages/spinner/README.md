@@ -2,13 +2,6 @@
 
 General-use loading spinner that uses svg paths.
 
-## Eslint & Unit Test
-
-To test `spinner component` locally:
-```
-gulp check
-```
-
 ## Installation
 
 The easiest way to use spinner is to install it from NPM and include it in your own React build process (using [Browserify](http://browserify.org), [Webpack](http://webpack.github.io/), etc).
@@ -19,7 +12,6 @@ You can also use the standalone build by including `dist/spinner.js` in your pag
 npm install spinner --save
 ```
 
-
 ## Usage
 
 ```
@@ -29,6 +21,13 @@ var Spinner = require('spinner');
   overlay='CONTAINER'
   children={<div>I'm loading...</div>}
 />
+```
+
+## Eslint & Unit Test
+
+To test `spinner component` locally:
+```
+gulp check
 ```
 
 ## Development (`src`, `lib` and the build process)
