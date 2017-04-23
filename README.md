@@ -1,19 +1,24 @@
 # Discovery Component
+
 A components playground for developing and demoing electrode archetype components.
 
 ## Packages
+
 This repo use Lerna to manage multiple related electrode archetype components.
 
 ### Spinner Component
+
 [@walmart/wmreact-spinner](https://gecgithub01.walmart.com/OneWalmart/spinner) is a component for loading spinner react component for OneWalmart grocery. It is a general-use loading spinner that uses svg paths.
 
 ## Demo Applications
+
 Demo applications can be found under `demo-app` directory, which are used for demoing and developing packages/components. They were created with the Electrode generator and consume the Electrode App archetype modules, which has standardize on common development behavior and patterns.
 `demo-app/grocery-spinner-demo` here is used for demoing and developing `packages/spinner` component.
 
 ## Installation
 
 ### Prerequisites
+
 Make sure you have installed NodeJS >= 4.x and npm >= 3.x.
 ```
 $ node -v
@@ -23,6 +28,7 @@ $ npm -v
 ```
 
 ### Check it out
+
 To try out this ready made demo app, please clone this app:
 ```
 $ git clone https://github.com/didi0613/discovery-component.git
@@ -33,7 +39,14 @@ $ cd demo-app/grocery-spinner-demo
 $ npm install
 $ gulp dev
 ```
+
 Now navigate your browser to http://localhost:3000 to see the demo app with @walmart/wmreact-spinner components.
+
+![alt tag](./demo-app/grocery-spinner-demo/images/grocery-spinner-demo.gif)
+
+## License
+
+Apache-2.0 © [sheng di](https://github.com/didi0613)
 
 Built with :heart: by [Team Electrode] @WalmartLabs.
 
@@ -43,7 +56,3 @@ Built with :heart: by [Team Electrode] @WalmartLabs.
 [electrode-archetype-react-app]: packages/electrode-archetype-react-app
 [electrode-archetype-react-app-dev]: packages/electrode-archetype-react-app-dev
 [generator-electrode]: packages/generator-electrode
-[travis-image]: https://travis-ci.org/electrode-io/electrode.svg?branch=master
-[travis-url]: https://travis-ci.org/electrode-io/electrode
-[daviddm-image]: https://david-dm.org/electrode-io/electrode/dev-status.svg
-[daviddm-url]: https://david-dm.org/electrode-io/electrode?type=dev
