@@ -13,7 +13,10 @@ This repo use Lerna to manage multiple related electrode archetype components.
 ## Demo Applications
 
 Demo applications can be found under `demo-app` directory, which are used for demoing and developing packages/components. They were created with the Electrode generator and consume the Electrode App archetype modules, which has standardize on common development behavior and patterns.
-`demo-app/grocery-spinner-demo` here is used for demoing and developing `packages/spinner` component.
+
+### Spinner Component Demo
+
+`demo-app/grocery-spinner-demo` is used for demoing and developing `packages/spinner` component.
 
 ## Installation
 
